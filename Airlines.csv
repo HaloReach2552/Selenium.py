@@ -1,0 +1,523 @@
+Aerolinea,Escalas,Duracion,Salida,Llegada,Persona,Origen,Destino,Precio
+Aeromexico,2 escalas,26h 30m,07:05,"16:35
++1
+BCN",por persona,LIM,BCN,USD607
+LATAM Airlines,1 escala,25h 40m,00:20,"09:00
++1
+BCN",por persona,LIM,BCN,USD696
+Aeromexico,2 escalas,33h 05m,00:30,"16:35
++1
+BCN",por persona,LIM,BCN,USD607
+Aeromexico,2 escalas,32h 50m,07:05,"22:55
++1
+BCN",por persona,LIM,BCN,USD611
+LATAM Airlines,2 escalas,23h 25m,08:55,"15:20
++1
+BCN",por persona,LIM,BCN,USD784
+Aeromexico,2 escalas,42h 50m,07:05,"08:55
++2
+BCN",por persona,LIM,BCN,USD558
+Aeromexico,2 escalas,39h 25m,00:30,"22:55
++1
+BCN",por persona,LIM,BCN,USD611
+Aeromexico,2 escalas,32h 40m,07:05,"22:45
++1
+BCN",por persona,LIM,BCN,USD724
+Aeromexico,2 escalas,49h 25m,00:30,"08:55
++2
+BCN",por persona,LIM,BCN,USD558
+Spirit,2 escalas,24h 50m,22:55,"06:45
++2
+BCN",por persona,LIM,BCN,USD855
+Aeromexico,2 escalas,50h 30m,07:05,"16:35
++2
+BCN",por persona,LIM,BCN,USD558
+American Airlines,1 escala,24h 35m,23:50,"07:25
++2
+BCN",por persona,LIM,BCN,USD875
+American Airlines,2 escalas,26h 20m,23:50,"09:10
++2
+BCN",por persona,LIM,BCN,USD875
+American Airlines,1 escala,26h 30m,21:55,"07:25
++2
+BCN",por persona,LIM,BCN,USD875
+LATAM Airlines,1 escala,14h 50m,22:30,"20:20
++1
+BCN",por persona,LIM,BCN,"USD1,016"
+Aeromexico,2 escalas,39h 15m,00:30,"22:45
++1
+BCN",por persona,LIM,BCN,USD724
+Air Europa,1 escala,15h 35m,10:20,"08:55
++1
+BCN",por persona,LIM,BCN,"USD1,033"
+Avianca,2 escalas,18h 45m,18:35,"20:20
++1
+BCN",por persona,LIM,BCN,"USD1,003"
+LATAM Airlines,1 escala,18h 20m,22:30,"23:50
++1
+BCN",por persona,LIM,BCN,"USD1,016"
+Aeromexico,2 escalas,57h 05m,00:30,"16:35
++2
+BCN",por persona,LIM,BCN,USD558
+Avianca,1 escala,15h 05m,11:05,"09:10
++1
+BCN",por persona,LIM,BCN,"USD1,063"
+Iberia,1 escala,17h 10m,20:10,"20:20
++1
+BCN",por persona,LIM,BCN,"USD1,049"
+KLM Royal Dutch Airlines,1 escala,19h 50m,19:55,"22:45
++1
+BCN",por persona,LIM,BCN,"USD1,029"
+Aeromexico,2 escalas,45h 45m,07:05,"11:50
++2
+BCN",por persona,LIM,BCN,USD725
+Air France,2 escalas,20h 00m,19:55,"22:55
++1
+BCN",por persona,LIM,BCN,"USD1,049"
+Avianca,2 escalas,24h 45m,11:05,"18:50
++1
+BCN",por persona,LIM,BCN,USD993
+Avianca,2 escalas,28h 55m,06:55,"18:50
++1
+BCN",por persona,LIM,BCN,USD954
+KLM Royal Dutch Airlines,2 escalas,20h 00m,19:55,"22:55
++1
+BCN",por persona,LIM,BCN,"USD1,066"
+Avianca,2 escalas,26h 15m,11:05,"20:20
++1
+BCN",por persona,LIM,BCN,USD993
+Iberia,1 escala,16h 35m,20:10,"19:45
++1
+BCN",por persona,LIM,BCN,"USD1,123"
+JetBlue,2 escalas,24h 15m,23:30,"06:45
++2
+BCN",por persona,LIM,BCN,"USD1,033"
+United Airlines,2 escalas,26h 35m,23:25,"09:00
++2
+BCN",por persona,LIM,BCN,"USD1,016"
+LATAM Airlines,1 escala,13h 55m,20:10,"17:05
++1
+BCN",por persona,LIM,BCN,"USD1,168"
+LATAM Airlines,1 escala,26h 50m,22:30,"08:20
++2
+BCN",por persona,LIM,BCN,"USD1,024"
+JetBlue,2 escalas,26h 30m,23:30,"09:00
++2
+BCN",por persona,LIM,BCN,"USD1,037"
+LATAM Airlines,1 escala,16h 35m,20:10,"19:45
++1
+BCN",por persona,LIM,BCN,"USD1,168"
+LATAM Airlines,1 escala,17h 10m,20:10,"20:20
++1
+BCN",por persona,LIM,BCN,"USD1,168"
+Avianca,2 escalas,35h 15m,18:35,"12:50
++2
+BCN",por persona,LIM,BCN,USD954
+Avianca,2 escalas,42h 45m,11:05,"12:50
++2
+BCN",por persona,LIM,BCN,USD866
+Iberia,1 escala,13h 55m,20:10,"17:05
++1
+BCN",por persona,LIM,BCN,"USD1,259"
+Avianca,1 escala,31h 35m,18:35,"09:10
++2
+BCN",por persona,LIM,BCN,"USD1,063"
+Avianca,2 escalas,41h 15m,18:35,"18:50
++2
+BCN",por persona,LIM,BCN,USD954
+LATAM Airlines,2 escalas,40h 50m,12:00,"11:50
++2
+BCN",por persona,LIM,BCN,USD965
+LATAM Airlines,2 escalas,42h 00m,12:00,"13:00
++2
+BCN",por persona,LIM,BCN,USD965
+LATAM Airlines,1 escala,34h 20m,22:30,"15:50
++2
+BCN",por persona,LIM,BCN,"USD1,070"
+LATAM Airlines,2 escalas,44h 15m,12:00,"15:15
++2
+BCN",por persona,LIM,BCN,USD965
+Iberia,1 escala,14h 50m,22:30,"20:20
++1
+BCN",por persona,LIM,BCN,"USD1,319"
+Copa Airlines,2 escalas,22h 46m,00:59,"06:45
++1
+BCN",por persona,LIM,BCN,"USD1,246"
+JetBlue,2 escalas,48h 15m,23:30,"06:45
++3
+BCN",por persona,LIM,BCN,USD941
+Avianca,2 escalas,21h 20m,18:35,"22:55
++1
+BCN",por persona,LIM,BCN,"USD1,305"
+Avianca,2 escalas,46h 55m,06:55,"12:50
++2
+BCN",por persona,LIM,BCN,"USD1,002"
+LATAM Airlines,1 escala,29h 25m,22:30,"10:55
++2
+BCN",por persona,LIM,BCN,"USD1,226"
+LATAM Airlines,2 escalas,21h 40m,12:25,"17:05
++1
+BCN",por persona,LIM,BCN,"USD1,375"
+LATAM Airlines,2 escalas,27h 10m,12:25,"22:35
++1
+BCN",por persona,LIM,BCN,"USD1,319"
+LATAM Airlines,2 escalas,28h 10m,00:40,"11:50
++1
+BCN",por persona,LIM,BCN,"USD1,323"
+Avianca,2 escalas,28h 30m,11:05,"22:35
++1
+BCN",por persona,LIM,BCN,"USD1,319"
+LATAM Airlines,2 escalas,24h 55m,12:25,"20:20
++1
+BCN",por persona,LIM,BCN,"USD1,375"
+LATAM Airlines,2 escalas,29h 20m,00:40,"13:00
++1
+BCN",por persona,LIM,BCN,"USD1,323"
+LATAM Airlines,2 escalas,31h 35m,00:40,"15:15
++1
+BCN",por persona,LIM,BCN,"USD1,323"
+LATAM Airlines,2 escalas,27h 35m,09:10,"19:45
++1
+BCN",por persona,LIM,BCN,"USD1,375"
+LATAM Airlines,2 escalas,32h 20m,00:40,"16:00
++1
+BCN",por persona,LIM,BCN,"USD1,323"
+LATAM Airlines,2 escalas,34h 25m,00:40,"18:05
++1
+BCN",por persona,LIM,BCN,"USD1,323"
+LATAM Airlines,2 escalas,41h 30m,14:45,"15:15
++2
+BCN",por persona,LIM,BCN,"USD1,297"
+LATAM Airlines,2 escalas,39h 25m,00:40,"23:05
++1
+BCN",por persona,LIM,BCN,"USD1,337"
+LATAM Airlines,2 escalas,49h 20m,14:45,"23:05
++2
+BCN",por persona,LIM,BCN,"USD1,246"
+KLM Royal Dutch Airlines,2 escalas,25h 51m,13:54,"22:45
++1
+BCN",por persona,LIM,BCN,"USD1,580"
+Avianca,2 escalas,23h 00m,11:05,"17:05
++1
+BCN",por persona,LIM,BCN,"USD1,623"
+LATAM Airlines,2 escalas,48h 30m,12:00,"19:30
++2
+BCN",por persona,LIM,BCN,"USD1,323"
+LATAM Airlines,1 escala,15h 40m,20:10,"18:50
++1
+BCN",por persona,LIM,BCN,"USD1,736"
+LATAM Airlines,2 escalas,24h 55m,08:05,"16:00
++1
+BCN",por persona,LIM,BCN,"USD1,667"
+LATAM Airlines,2 escalas,19h 55m,12:25,"15:20
++1
+BCN",por persona,LIM,BCN,"USD1,937"
+KLM Royal Dutch Airlines,2 escalas,19h 31m,13:54,"16:25
++1
+BCN",por persona,LIM,BCN,"USD1,954"
+Avianca,2 escalas,21h 15m,11:05,"15:20
++1
+BCN",por persona,LIM,BCN,"USD1,937"
+LATAM Airlines,2 escalas,42h 25m,08:05,"09:30
++2
+BCN",por persona,LIM,BCN,"USD1,687"
+Avianca,2 escalas,27h 10m,06:55,"17:05
++1
+BCN",por persona,LIM,BCN,"USD2,001"
+LATAM Airlines,2 escalas,23h 25m,12:25,"18:50
++1
+BCN",por persona,LIM,BCN,"USD2,399"
+LATAM Airlines,2 escalas,24h 10m,08:05,"15:15
++1
+BCN",por persona,LIM,BCN,"USD2,513"
+LATAM Airlines,1 escala,26h 40m,00:20,"10:00
++1
+BCN",por persona,LIM,BCN,"USD2,951"
+Aerolineas Argentinas,2 escalas,51h 30m,22:25,"08:55
++3
+BCN",por persona,LIM,BCN,"USD2,773"
+Copa Airlines,2 escalas,24h 51m,01:09,"09:00
++1
+BCN",por persona,LIM,BCN,"USD3,227"
+Copa Airlines,2 escalas,25h 01m,00:59,"09:00
++1
+BCN",por persona,LIM,BCN,"USD3,227"
+LATAM Airlines,1 escala,21h 40m,09:05,"13:45
++1
+BCN",por persona,LIM,BCN,"USD14,168"
+Aeromexico,2 escalas,26h 30m,07:05,"16:35
++1
+BCN",por persona,LIM,BCN,USD607
+LATAM Airlines,2 escalas,26h 10m,00:20,"09:30
++1
+BCN",por persona,LIM,BCN,USD707
+LATAM Airlines,2 escalas,29h 40m,00:20,"13:00
++1
+BCN",por persona,LIM,BCN,USD707
+Aeromexico,2 escalas,42h 50m,07:05,"08:55
++2
+BCN",por persona,LIM,BCN,USD559
+KLM Royal Dutch Airlines,1 escala,18h 05m,19:55,"21:00
++1
+BCN",por persona,LIM,BCN,USD882
+LATAM Airlines,2 escalas,34h 45m,00:20,"18:05
++1
+BCN",por persona,LIM,BCN,USD707
+LATAM Airlines,2 escalas,28h 35m,00:20,"11:55
++1
+BCN",por persona,LIM,BCN,USD789
+LATAM Airlines,2 escalas,36h 10m,00:20,"19:30
++1
+BCN",por persona,LIM,BCN,USD707
+American Airlines,2 escalas,23h 55m,23:50,"06:45
++2
+BCN",por persona,LIM,BCN,USD875
+LATAM Airlines,1 escala,28h 20m,22:30,"09:50
++2
+BCN",por persona,LIM,BCN,USD825
+Aeromexico,2 escalas,50h 30m,07:05,"16:35
++2
+BCN",por persona,LIM,BCN,USD559
+American Airlines,1 escala,24h 35m,23:50,"07:25
++2
+BCN",por persona,LIM,BCN,USD875
+LATAM Airlines,2 escalas,39h 45m,00:20,"23:05
++1
+BCN",por persona,LIM,BCN,USD707
+KLM Royal Dutch Airlines,1 escala,15h 55m,19:55,"18:50
++1
+BCN",por persona,LIM,BCN,"USD1,029"
+LATAM Airlines,1 escala,25h 40m,00:20,"09:00
++1
+BCN",por persona,LIM,BCN,USD913
+Avianca,2 escalas,18h 45m,18:35,"20:20
++1
+BCN",por persona,LIM,BCN,"USD1,005"
+United Airlines,2 escalas,35h 40m,23:25,"18:05
++2
+BCN",por persona,LIM,BCN,USD810
+Delta,1 escala,17h 00m,09:00,"09:00
++1
+BCN",por persona,LIM,BCN,"USD1,041"
+Avianca,1 escala,15h 05m,11:05,"09:10
++1
+BCN",por persona,LIM,BCN,"USD1,077"
+Iberia,1 escala,17h 45m,19:35,"20:20
++1
+BCN",por persona,LIM,BCN,"USD1,051"
+Aeromexico,2 escalas,33h 05m,00:30,"16:35
++1
+BCN",por persona,LIM,BCN,USD908
+Iberia,1 escala,20h 00m,19:35,"22:35
++1
+BCN",por persona,LIM,BCN,"USD1,067"
+Iberia,1 escala,16h 30m,19:35,"19:05
++1
+BCN",por persona,LIM,BCN,"USD1,125"
+LATAM Airlines,2 escalas,50h 10m,00:20,"09:30
++2
+BCN",por persona,LIM,BCN,USD727
+Avianca,2 escalas,20h 45m,11:05,"14:50
++1
+BCN",por persona,LIM,BCN,"USD1,091"
+Air France,1 escala,16h 10m,18:00,"17:10
++1
+BCN",por persona,LIM,BCN,"USD1,150"
+LATAM Airlines,1 escala,14h 35m,19:35,"17:10
++1
+BCN",por persona,LIM,BCN,"USD1,170"
+LATAM Airlines,1 escala,26h 50m,22:30,"08:20
++2
+BCN",por persona,LIM,BCN,"USD1,025"
+LATAM Airlines,1 escala,14h 50m,22:30,"20:20
++1
+BCN",por persona,LIM,BCN,"USD1,170"
+LATAM Airlines,2 escalas,52h 30m,00:20,"11:50
++2
+BCN",por persona,LIM,BCN,USD727
+LATAM Airlines,1 escala,16h 15m,19:35,"18:50
++1
+BCN",por persona,LIM,BCN,"USD1,170"
+LATAM Airlines,2 escalas,53h 40m,00:20,"13:00
++2
+BCN",por persona,LIM,BCN,USD727
+LATAM Airlines,1 escala,17h 45m,19:35,"20:20
++1
+BCN",por persona,LIM,BCN,"USD1,170"
+LATAM Airlines,1 escala,18h 05m,22:30,"23:35
++1
+BCN",por persona,LIM,BCN,"USD1,170"
+LATAM Airlines,1 escala,27h 15m,22:30,"08:45
++2
+BCN",por persona,LIM,BCN,"USD1,070"
+KLM Royal Dutch Airlines,2 escalas,20h 00m,18:00,"21:00
++1
+BCN",por persona,LIM,BCN,"USD1,168"
+Air France,2 escalas,20h 00m,19:55,"22:55
++1
+BCN",por persona,LIM,BCN,"USD1,169"
+LATAM Airlines,2 escalas,21h 25m,12:30,"16:55
++1
+BCN",por persona,LIM,BCN,"USD1,157"
+LATAM Airlines,1 escala,29h 25m,22:30,"10:55
++2
+BCN",por persona,LIM,BCN,"USD1,070"
+KLM Royal Dutch Airlines,2 escalas,20h 00m,19:55,"22:55
++1
+BCN",por persona,LIM,BCN,"USD1,186"
+Air Europa,1 escala,15h 35m,10:20,"08:55
++1
+BCN",por persona,LIM,BCN,"USD1,244"
+Iberia,1 escala,14h 30m,19:35,"17:05
++1
+BCN",por persona,LIM,BCN,"USD1,261"
+Avianca,1 escala,31h 35m,18:35,"09:10
++2
+BCN",por persona,LIM,BCN,"USD1,063"
+Avianca,2 escalas,41h 15m,18:35,"18:50
++2
+BCN",por persona,LIM,BCN,USD993
+Iberia,1 escala,14h 50m,22:30,"20:20
++1
+BCN",por persona,LIM,BCN,"USD1,322"
+LATAM Airlines,2 escalas,31h 50m,00:20,"15:10
++1
+BCN",por persona,LIM,BCN,"USD1,121"
+Aeromexico,2 escalas,49h 25m,00:30,"08:55
++2
+BCN",por persona,LIM,BCN,USD916
+LATAM Airlines,2 escalas,32h 45m,00:20,"16:05
++1
+BCN",por persona,LIM,BCN,"USD1,121"
+KLM Royal Dutch Airlines,2 escalas,17h 50m,18:00,"18:50
++1
+BCN",por persona,LIM,BCN,"USD1,323"
+Delta,2 escalas,42h 00m,09:00,"10:00
++2
+BCN",por persona,LIM,BCN,"USD1,041"
+Aeromexico,2 escalas,57h 05m,00:30,"16:35
++2
+BCN",por persona,LIM,BCN,USD916
+Iberia,2 escalas,29h 15m,22:30,"10:45
++2
+BCN",por persona,LIM,BCN,"USD1,252"
+Avianca,2 escalas,38h 20m,11:50,"09:10
++2
+BCN",por persona,LIM,BCN,"USD1,165"
+LATAM Airlines,2 escalas,21h 45m,12:25,"17:10
++1
+BCN",por persona,LIM,BCN,"USD1,377"
+LATAM Airlines,2 escalas,23h 25m,12:25,"18:50
++1
+BCN",por persona,LIM,BCN,"USD1,377"
+LATAM Airlines,2 escalas,28h 15m,00:40,"11:55
++1
+BCN",por persona,LIM,BCN,"USD1,325"
+Avianca,2 escalas,28h 55m,06:55,"18:50
++1
+BCN",por persona,LIM,BCN,"USD1,321"
+LATAM Airlines,2 escalas,29h 20m,00:40,"13:00
++1
+BCN",por persona,LIM,BCN,"USD1,325"
+LATAM Airlines,2 escalas,47h 05m,12:00,"18:05
++2
+BCN",por persona,LIM,BCN,"USD1,121"
+LATAM Airlines,2 escalas,31h 30m,00:40,"15:10
++1
+BCN",por persona,LIM,BCN,"USD1,325"
+LATAM Airlines,2 escalas,32h 25m,00:40,"16:05
++1
+BCN",por persona,LIM,BCN,"USD1,325"
+LATAM Airlines,2 escalas,34h 25m,00:40,"18:05
++1
+BCN",por persona,LIM,BCN,"USD1,325"
+LATAM Airlines,2 escalas,35h 50m,00:40,"19:30
++1
+BCN",por persona,LIM,BCN,"USD1,325"
+Avianca,2 escalas,22h 55m,06:55,"12:50
++1
+BCN",por persona,LIM,BCN,"USD1,500"
+Avianca,2 escalas,21h 20m,18:35,"22:55
++1
+BCN",por persona,LIM,BCN,"USD1,539"
+Avianca,2 escalas,24h 55m,06:55,"14:50
++1
+BCN",por persona,LIM,BCN,"USD1,500"
+LATAM Airlines,2 escalas,39h 25m,00:40,"23:05
++1
+BCN",por persona,LIM,BCN,"USD1,339"
+LATAM Airlines,2 escalas,45h 00m,12:00,"16:00
++2
+BCN",por persona,LIM,BCN,"USD1,274"
+LATAM Airlines,2 escalas,40h 50m,12:00,"11:50
++2
+BCN",por persona,LIM,BCN,"USD1,325"
+LATAM Airlines,2 escalas,42h 00m,12:00,"13:00
++2
+BCN",por persona,LIM,BCN,"USD1,325"
+LATAM Airlines,2 escalas,44h 15m,12:00,"15:15
++2
+BCN",por persona,LIM,BCN,"USD1,325"
+LATAM Airlines,2 escalas,26h 50m,22:55,"08:45
++2
+BCN",por persona,LIM,BCN,"USD1,579"
+LATAM Airlines,1 escala,14h 30m,19:35,"17:05
++1
+BCN",por persona,LIM,BCN,"USD1,739"
+LATAM Airlines,2 escalas,49h 50m,00:40,"09:30
++2
+BCN",por persona,LIM,BCN,"USD1,345"
+LATAM Airlines,2 escalas,21h 40m,12:25,"17:05
++1
+BCN",por persona,LIM,BCN,"USD1,739"
+LATAM Airlines,2 escalas,17h 25m,12:25,"12:50
++1
+BCN",por persona,LIM,BCN,"USD1,927"
+Avianca,2 escalas,27h 10m,06:55,"17:05
++1
+BCN",por persona,LIM,BCN,"USD1,927"
+LATAM Airlines,2 escalas,25h 15m,00:25,"08:40
++1
+BCN",por persona,LIM,BCN,"USD1,996"
+LATAM Airlines,2 escalas,51h 05m,23:25,"09:30
++3
+BCN",por persona,LIM,BCN,"USD1,751"
+LATAM Airlines,2 escalas,23h 35m,16:00,"22:35
++1
+BCN",por persona,LIM,BCN,"USD2,214"
+LATAM Airlines,1 escala,23h 45m,00:40,"07:25
++1
+BCN",por persona,LIM,BCN,"USD2,326"
+LATAM Airlines,2 escalas,32h 50m,23:25,"15:15
++2
+BCN",por persona,LIM,BCN,"USD2,517"
+Air France,2 escalas,17h 50m,18:00,"18:50
++1
+BCN",por persona,LIM,BCN,"USD2,850"
+LATAM Airlines,1 escala,17h 00m,09:00,"09:00
++1
+BCN",por persona,LIM,BCN,"USD2,951"
+LATAM Airlines,1 escala,26h 40m,00:20,"10:00
++1
+BCN",por persona,LIM,BCN,"USD2,951"
+Aerolineas Argentinas,2 escalas,51h 30m,22:25,"08:55
++3
+BCN",por persona,LIM,BCN,"USD2,777"
+Copa Airlines,2 escalas,24h 51m,01:09,"09:00
++1
+BCN",por persona,LIM,BCN,"USD3,232"
+Copa Airlines,2 escalas,25h 01m,00:59,"09:00
++1
+BCN",por persona,LIM,BCN,"USD3,232"
+Avianca,2 escalas,18h 45m,11:05,"12:50
++1
+BCN",por persona,LIM,BCN,"USD4,571"
+Avianca,2 escalas,23h 00m,11:05,"17:05
++1
+BCN",por persona,LIM,BCN,"USD4,571"
+Air France,2 escalas,20h 50m,18:00,"21:50
++1
+BCN",por persona,LIM,BCN,"USD6,120"
+LATAM Airlines,1 escala,21h 40m,09:05,"13:45
++1
+BCN",por persona,LIM,BCN,"USD14,189"
